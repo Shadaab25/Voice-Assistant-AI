@@ -82,8 +82,8 @@ Python 3.13
 
 Clone the repository:
 bash
-git clone https://github.com/your-username/Voice-Assistant-AI.git
+git clone https://github.com/Shadaab25/Voice-Assistant-AI.git
 cd Voice-Assistant-AI
 
-git clone https://github.com/your-username/Voice-Assistant-AI.git
+git clone https://github.com/Shadaab25/Voice-Assistant-AI.git
 cd Voice-Assistant-AI
